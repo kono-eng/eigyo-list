@@ -1,0 +1,9 @@
+{
+ "regions": [
+  {
+   "id": "saitama-hokubu",
+   "name": "埼玉県北部(深谷・本庄)",
+   "file": "saitama-hokubu.json"
+  }
+ ]
+}
